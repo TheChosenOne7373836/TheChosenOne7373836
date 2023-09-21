@@ -13,9 +13,6 @@ I'm a High-School Student, indie back-end developer and game creator building my
 
 ### Languages, Apps and Tools
 
-<br>
-
-
 <img align="left" alt="Blender" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;"/>
 
 <img align="left" alt="VS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;"/>
