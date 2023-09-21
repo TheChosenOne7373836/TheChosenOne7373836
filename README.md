@@ -24,33 +24,33 @@ I'm a High-School Student, indie back-end developer and game creator building my
 ### Languages, Apps and Tools
 #
 
-<img align="left" alt="Blender" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="VS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="VSCode" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Intellij" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="PHP" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Bootstrap" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="JS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="NodeJS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Express" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Unity" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="C#" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Pytorch" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="JQuery" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Lua" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Github" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Arduino" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Bash" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Windows" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Linux" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px; margin: 10px;"/>
-<img align="left" alt="Ubuntu" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Blender" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="VS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="VSCode" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Intellij" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="PHP" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Bootstrap" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="JS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="NodeJS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Express" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Unity" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="C#" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Pytorch" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="JQuery" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Lua" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Github" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Arduino" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Bash" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Windows" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Linux" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
+<img align="left" alt="Ubuntu" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="display: inline-block; padding-right:10px; margin: 10px;"/>
 <br />
 
 #
