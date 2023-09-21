@@ -7,6 +7,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3500&pause=400&color=E5F71D&center=true&vCenter=true&width=435&lines=Early-Rising+Craftsman+(Developer+%2F+Creator+%2F+Procrastinator)" alt="Typing SVG" /></a>
 </p>
 
+#
+
+<img src="Images/snakeGenerator.svg" style="background:#161b22;">
+
+#
+
+<br />
+
 ---
 
 I'm a High-School Student, indie back-end developer and game creator building my way up on this competitive market by projecting my version of this digital world step by step. All of my coding projects are made from the ground up, from planning to action. Truly a genious of this era-
