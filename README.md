@@ -48,9 +48,9 @@ I'm a High-School Student, indie back-end developer and game creator building my
 
 <img align="left" alt="Pytorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="JQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
 
 <img align="left" alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px;"/>
 
-#
+---
 
