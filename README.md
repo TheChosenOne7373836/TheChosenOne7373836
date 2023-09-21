@@ -9,6 +9,8 @@
 
 ---
 
+<br />
+
 <img src="Images/snakeGenerator.svg" style="background:#161b22;">
 
 <br />
