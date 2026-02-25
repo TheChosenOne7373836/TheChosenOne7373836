@@ -17,7 +17,7 @@
 
 ---
 
-I'm a High-School Student, indie back-end developer and game creator building my way up on this competitive market by projecting my version of this digital world step by step. All of my coding projects are made from the ground up, from planning to action. Truly a genious of this era-
+I'm a tech graduate, indie back-end developer and game creator building my way up on this competitive market by projecting my version of this digital world step by step. All of my coding projects are made from the ground up, from planning to action. Truly a genious of this era- hehe
 
 ---
 
